@@ -1,4 +1,4 @@
-# WordPress Plugin Boilerplate Powered - WordPress Plugin Boilerplate Powered
+# WordPress Plugin Template 3 - WordPress Plugin Boilerplate Powered
 
 A template plugin for GitHub deployments inspired by [WordPress Plugin Boilerplate Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered).
 
