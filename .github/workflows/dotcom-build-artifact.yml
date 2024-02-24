@@ -3,7 +3,7 @@ name: Publish Website
 on:
   push:
     branches:
-      - main
+      - trunk
   workflow_dispatch:
 jobs:
   Build-Artifact-Action:
